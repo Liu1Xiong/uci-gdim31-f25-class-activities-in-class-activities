@@ -1,8 +1,8 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
-
+1) The cat moved away without taking the camera with it because it's no longer a subcategory under the cat and thus will not move with the cat object. 
+2) https://liu1x.itch.io/92826-in-class-build
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
