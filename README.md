@@ -4,7 +4,10 @@
 1) The cat moved away without taking the camera with it because it's no longer a subcategory under the cat and thus will not move with the cat object. 
 2) https://liu1x.itch.io/92826-in-class-build
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+1) Because floats are fraction numbers while ints would be whole numbers, bools would be true or false, and string is text. In this case, colors required
+a decimal number.
+2) Because it is not tied to the ball sprite's RGB so it wouldn't venture into decimal values.
+3) It told us that the line of coded needed an 'f' before the semicolon.
 
 ## Open-Source Assets
 ### W1
