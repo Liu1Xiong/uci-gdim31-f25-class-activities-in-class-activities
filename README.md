@@ -13,8 +13,8 @@ a decimal number.
 ### W3
 1) The input would be an integer for the player's friendship level and a bool for the flag for whether they know the secret, the output would be a string with the corresponding dialogue.
 2) The input would be the player's sanity level which changes the light level, since an output is not needed it would be void. 
-3) The input is a true or false boolean for whether we hit the beat, the output would just be whether we hit it or didn't hit it. 
-Metaphor) Using a cat, the components would be the actual cat while the class would be the animal's DNA. The member variables would be like the cat's breed (its physical features). 
+3) The input is a true or false boolean for whether we hit the beat, the output would just be whether we hit it or didn't hit it.
+4) Metaphor) Using a cat, the components would be the actual cat while the class would be the animal's DNA. The member variables would be like the cat's breed (its physical features). 
 1) The balls brightness perhaps stems from the lack of a limit on how bright they can get from what we coded.
 
 ## Open-Source Assets
