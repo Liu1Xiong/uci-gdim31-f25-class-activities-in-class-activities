@@ -25,6 +25,12 @@ Table #10
 1) We found that adding a Rigid Body to the Cat and turning Freeze Rotation checked for XYZ axis allows the ball to be hit by the cat instead of phasing. We added rigid bodies to the cat and the ball since they needed to have physics and collide, but we added an is trigger to the goal as it needs to signal that the ball has scored.
 2) Me and Matteo found an error in step 1 where the OnTrigger enter method written with the .tag was not working as witten on the slides. This was because the full method type was originally written as (Collider other) so we changed it to if (other.gameObject.tag == ("Goal"))
 
+### W5
+1) Similar to the catw5 script, it should have the member variables like floats for the move speed and turn speed. Also bools for checking the controls. 
+2) It should have an update() method because we want the code to run from start frame by frame. It should also include a navmesh code with a method like SetDestination() so the deer can walk on the terrain.
+3) They should update every frame and allow the deer to walk on the terrain and tell it where to walk. 
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
