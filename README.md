@@ -26,8 +26,8 @@ Table #10
 2) Me and Matteo found an error in step 1 where the OnTrigger enter method written with the .tag was not working as witten on the slides. This was because the full method type was originally written as (Collider other) so we changed it to if (other.gameObject.tag == ("Goal"))
 
 ### W5
-1) Similar to the catw5 script, it should have the member variables like floats for the move speed and turn speed. Also bools for checking the controls. 
-2) It should have an update() method because we want the code to run from start frame by frame. It should also include a navmesh code with a method like SetDestination() so the deer can walk on the terrain.
+1) Basically the exact same to the catw5 script, it should have the member variables like floats for the move speed and turn speed. Also bools for checking the controls. 
+2) It should have an update() method because we want the code to run from start frame by frame. It should also include a navmesh code with a method like SetDestination() that replaces the player keyboard inputs so the Ai deer can walk on the terrain.
 3) They should update every frame and allow the deer to walk on the terrain and tell it where to walk. 
 
 
