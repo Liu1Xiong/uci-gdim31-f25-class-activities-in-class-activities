@@ -30,6 +30,10 @@ Table #10
 2) It should have an update() method because we want the code to run from start frame by frame. It should also include a navmesh code with a method like SetDestination() that replaces the player keyboard inputs so the Ai deer can walk on the terrain.
 3) They should update every frame and allow the deer to walk on the terrain and tell it where to walk. 
 
+### W6
+1) It will need a float for the speed control and probably a bool for whether the bat should chase the player.
+2) I can see it requiring both an Update() and Start() method, as well as our own custom method to control the chasing start and stop. 
+3) The Update() would pertain to movement and chasing the player, the Start() would inititlize all the script and objects when the game begins for playtesting as stated in instructions.
 
 ## Open-Source Assets
 ### W1
