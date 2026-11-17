@@ -14,6 +14,7 @@ public class BatManager : MonoBehaviour
     // In the Inspector, add ALL of the bats in the Scene.
     
     // STEP 1 -----------------------------------------------------------------
+    public BatW6[] _bats;
 
     // STEP 3 -----------------------------------------------------------------
     // Add a member variable named "_messages" that's an array of strings.
