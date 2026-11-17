@@ -39,7 +39,7 @@ Table #10
 #### Part 1
 https://drive.google.com/file/d/10vFPkVisUNrLEQaPKpmuvJwm5DYn2Vru/view?usp=sharing 
 #### Part 2
-1) It should've been transform.forwrd instead of Vector3.forward. 
+1) It should've been transform.forward instead of Vector3.forward. 
 
 ## Open-Source Assets
 ### W1
