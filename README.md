@@ -41,6 +41,12 @@ https://drive.google.com/file/d/10vFPkVisUNrLEQaPKpmuvJwm5DYn2Vru/view?usp=shari
 #### Part 2
 1) It should've been transform.forward instead of Vector3.forward. 
 
+### W9
+1) https://drive.google.com/file/d/1uN9Qtc_1rX81irUFGPGClvzw3fkuh63A/view?usp=drive_link
+2) In class, we planned out the game with our drawing. I then opened the final 2D project on Unity and began checking out the script. I went back to the week 7 minigame and compared the set up of the platform
+1. objects, and reviewed the week 7 video tutorials on creating platforms. Overall, I didn't get a lot done in the way of coding but I've set myself up to start working later this week by getting a basic grasp
+1. of whats needed in the future, whats required by the script, and clarified how platforming works. 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
